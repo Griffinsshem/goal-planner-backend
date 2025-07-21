@@ -1,0 +1,10 @@
+# Ignore Node.js dependencies
+node_modules/
+
+# Ignore environment files
+.env
+.env.local
+
+# Ignore local debug files
+*.log
+.DS_Store (Mac only)
